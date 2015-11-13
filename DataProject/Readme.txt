@@ -1,0 +1,1 @@
+This folder is to store all files related to data preprocessing, cleaning and modeling.
