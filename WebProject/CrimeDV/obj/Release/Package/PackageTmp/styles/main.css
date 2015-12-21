@@ -1,0 +1,19 @@
+/* main */
+
+#everything {
+	margin:0 auto;
+	padding:0 0 24px 0;
+	width:100%; 
+}
+
+#divheader {
+	background-color: black;
+}
+
+#headerlogo {
+	float: left;
+}
+
+#headernav {
+	float: right;
+}

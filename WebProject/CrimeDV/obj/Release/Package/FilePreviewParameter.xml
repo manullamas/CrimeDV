@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="CrimeDV" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Miguel\\Documents\\GitHub\\CrimeDV\\WebProject\\CrimeDV\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Miguel\\Documents\\GitHub\\CrimeDV\\WebProject\\CrimeDV\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\miballe\\Documents\\GitHub\\CrimeDV\\WebProject\\CrimeDV\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\miballe\\Documents\\GitHub\\CrimeDV\\WebProject\\CrimeDV\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
 </parameters>
