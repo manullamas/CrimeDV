@@ -19,11 +19,7 @@
 		<td colspan="2">
             <table style="width:100%;height:100%;border-width:0px 0px 0px 0px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
                 <tr>
-                    <td style="width:400px;height:50%">Chart1</td>
-                    <td rowspan="2" style="width:100%;height:100%"><div id="crimemap" class="map"></div></td>
-                </tr>
-                <tr>
-                    <td style="width:400px;height:50%">Chart2</td>
+                    <td style="width:100%;height:100%"><div id="crimemap" class="map"></div></td>
                 </tr>
             </table>
 		</td>

@@ -110,7 +110,6 @@
     <Content Include="scripts\scriptStackedChart.js" />
     <Content Include="styles\main.css" />
     <Content Include="styles\nv.d3.css" />
-    <Content Include="styles\nv.d3.min.js" />
     <Content Include="styles\ol.css" />
     <Content Include="Web.config" />
   </ItemGroup>
