@@ -2,12 +2,11 @@
 
 <!DOCTYPE html>
 <head>
-  <title>London crime data</title>
-  <meta charset="utf-8">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
-  <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
-  <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
-  <link href="/styles/nv.d3.css" rel="stylesheet" type="text/css">
+    <title>London crime data</title>
+    <meta charset="utf-8">
+    <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+    <link href="/styles/nv.d3.css" rel="stylesheet" type="text/css">
     <script src="/scripts/nv.d3.js"></script>
 	<script src="/scripts/lineBarsChart.js"></script>
 	<script src="/scripts/scriptStackedChart.js"></script>

@@ -1,0 +1,71 @@
+---
+title: "NationalDataExtraction"
+author: "Alun"
+date: "24 November 2015"
+output: html_document
+---
+
+```{r initialising variables and importing libraries}
+setwd("~/Southampton/FoundDataScience/DataScienceProject/CrimeDV/DataProject")
+library(dplyr)
+```
+The first step is to load in local authority populations in order to sort them by population.
+
+```{r read/clean}
+# Read data
+LApopRAW <- read.csv("./Datasets/ONScensus/Census-PopulationOfLAuthorities.csv", na.strings=c("","NA"), skip = 13)
+
+# Filter to remove empty variables 
+LApop <- Filter(function(x) !all(is.na(x)), LApopRAW)
+
+# Name variables
+names(LApop) <- c("AreaCode", "Region", "County", "SubRegion", "All", "Males", "Females", "NotHomeless", "CommunalLiving", "Student", "Area", "Density")
+
+# Delete empty rows
+emptyRows <- select(LApop, -Region) %>%
+  apply(1, function(x) all(is.na(x))) # index of empty rows
+LApop <- LApop[!emptyRows,]
+
+# Evaluate region size as a variable for later indexing
+LApop$RegionSize <- apply(LApop, 1, function(x){
+  ifelse(!is.na(x["Region"]), "Region",
+         ifelse(!is.na(x["County"]), "County",
+                "SubRegion"))
+})
+
+# Loops through dataset and adds larger regions to smaller regions descriptions
+savedRegion <- NA
+savedCounty <- NA
+for (i in 1:nrow(LApop)){
+  if (!is.na(LApop$Region[i])) {
+    savedRegion <- LApop$Region[i]
+  }
+  else {
+    LApop$Region[i] <- savedRegion
+  }
+    if (!is.na(LApop$County[i])) {
+    savedCounty <- LApop$County[i]
+  }
+  else {
+    LApop$County[i] <- savedCounty
+  }
+}
+
+# MAke sure numerical values are numerics
+NumericNames <- c("All", "Males", "Females", "NotHomeless", "CommunalLiving", "Student", "Area", "Density")
+```
+
+Next we find the most populous subregions
+```{r populus subregions}
+filter(LApop, RegionSize == "SubRegion") %>%
+  arrange(desc(All)) %>% 
+  head(10) %>%
+  View()
+```
+Find most populous subregions outside London
+```{r populus nonLondon}
+filter(LApop, RegionSize == "SubRegion", Region != "LONDON") %>%
+  arrange(desc(All)) %>% 
+  head(10) %>%
+  View()
+```

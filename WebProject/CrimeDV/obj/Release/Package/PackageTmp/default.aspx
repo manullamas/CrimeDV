@@ -39,9 +39,6 @@
         source: new ol.source.BingMaps({
         key: 'Al2H4Jth3TkBcsuFvpl1FZmbBj4iTnd5P5BosDl6TzE87VmdXWnwDKEWJ-yEw2D8',
         imagerySet: 'Road'
-        // use maxZoom 19 to see stretched tiles instead of the BingMaps
-        // "no photos at this zoom level" tiles
-        // maxZoom: 19
         })
     }));
 
