@@ -1,53 +1,33 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mapT.aspx.cs" Inherits="CrimeDV.mapT" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mapm.aspx.cs" Inherits="CrimeDV.mapm" %>
 
 <!DOCTYPE html>
-<head>
-    <title>London crime data</title>
-    <meta charset="utf-8">
-    <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>London Crime Data Visualiser</title>
+
     <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
-    <link href="/styles/nv.d3.css" rel="stylesheet" type="text/css">
-    <script src="/scripts/nv.d3.js"></script>
-    <script src="/scripts/lineBarsChart.js"></script>
-    <script src="/scripts/scriptStackedChart.js"></script>
-    <style>
-        body, html {
-            height: 100%;
-        }
-
-        #map {
-            width: 100%;
-            height: 100%;
-        }
-
-        svg {
-            display: block;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="/styles/main.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/ol.css" />
+    <script src="/scripts/d3.min.js" charset="utf-8"></script>
+    <script src="/scripts/ol.js"></script>
+    <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+    <meta name="description" content="London crime data visualiser. Includes points of interest and demographics." />
 </head>
-
-<body style="margin: 0px 0px 0px 0px; font-family: Arial, Helvetica, sans-serif;">
-    <table style="width: 100%; height: 100%">
-        <tr style="background-color: black; margin: 5px 5px 5px 5px; color: white;">
-            <td style="text-align: left">London Crime Data</td>
-            <td style="text-align: right">Intro | Crime Data | About this project</td>
-        </tr>
-        <tr>
-            <td style="width: 600px; height: 50%">
-                <svg id="chart1"></svg></td>
-            <td rowspan="2" style="height: 100%">
-                <div id="map"></div>
-            </td>
-        </tr>
-        <tr>
-            <td style="width: 600px; height: 50%">
-                <svg id="chart2"></svg></td>
-        </tr>
-    </table>
-
+<body>
+    <form id="form1" runat="server">
+        <div class="header row">
+            London Crime Data Visualiser
+        </div>
+        <div class="body row" id="crimemap">
+        </div>
+        <div class="footer row">
+            Site for Foundations of Data Science coursework. University of Southampton, 2016.
+        </div>
+    </form>
     <script>
 
-        var map = L.map('map').setView([51.5119112, -0.10000], 10);
+        var map = L.map('crimemap').setView([51.5119112, -0.10000], 13);
         mapLink =
             '<a href="http://openstreetmap.org">OpenStreetMap</a>';
         L.tileLayer(
@@ -70,7 +50,7 @@
             return point;
         }
 
-        d3.json("/data/dataStations.json", function (err, data) {
+        d3.json("/data/LONstations.json", function (err, data) {
             var dots = g.selectAll("circle.dot").data(data)
 
             dots.enter().append("circle").classed("dot", true)
@@ -83,13 +63,14 @@
             })
             .transition().duration(1000)
             .attr("r", function (d) {
-                fprop = sqrt(sqrt(d.flow));
-                if (fprop <= 30)
+                if (d.flow <= 100)
                     return 5;
-                if (d.flow >= 90)
+                if (d.flow > 100 && d.flow <= 500)
+                    return 10;
+                if (d.flow > 500 && d.flow < 1000)
+                    return 20;
+                if (d.flow >= 1000)
                     return 40;
-                else
-                    return round((((fprop-30) / 60 ) * 35) + 5)
             })
             .style({
                 fill: function (d) {
@@ -137,3 +118,4 @@
 
     </script>
 </body>
+</html>
