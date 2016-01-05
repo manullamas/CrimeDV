@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="./static/lib/css/bootstrap.min.css" >
+  <link rel="stylesheet" href="./static/lib/css/keen-dashboards.css" >
+
+        <!-- link rel="stylesheet" href="./static/lib/bower_components/dcjs/dc.css"-->
+        <!-- link rel="stylesheet" href="./static/lib/bower_components/leaflet/dist/leaflet.css"-->
+
+  <link rel="stylesheet" href="./static/lib/css/dc.css" >
+<link rel="stylesheet" href="./static/lib/css/leaflet.css" > 
+ <link rel="stylesheet" href="./static/css/custom.css">
+<script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+  <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+
+</head>
+<body class="application">
+
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">Crime Dashboard</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+
+    <div class="row">
+
+      <div class="col-sm-6">
+        <div class="row">
+
+          <!-- Time Chart -->
+          <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Crimes over time
+              </div>
+              <div class="chart-stage">
+                <div id="time-chart"></div>
+              </div>
+            </div>
+          </div>          
+          <!-- Time Chart --> 
+ <!-- Resources Pie -->
+          <div class="col-sm-6">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Crimes Type
+              </div>
+              <div class="chart-stage">
+                <div id="resource-type-row-chart"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Resources Pie -->
+          <!-- Poverty Pie -->
+          <div class="col-sm-6">
+            <div class="chart-wrapper">
+              <div class="chart-title">
+                Crimes Reported By
+              </div>
+              <div class="chart-stage">
+                <div id="poverty-level-row-chart"></div>
+              </div>
+            </div>
+          </div>
+          <!-- Poverty Pie -->
+  
+        </div>
+      </div>
+ <!-- Map -->  
+      <div class="col-sm-6">
+        <div class="chart-wrapper">
+          <div class="chart-title">
+            Geographic Distribution of Crimes
+          </div>
+          <div class="chart-stage">
+            <div id="us-chart"></div>
+          </div>
+        </div>
+      </div>
+      <!-- Map -->
+     <!-- Metric 2 -->
+      <div class="col-sm-3">
+        <div class="chart-wrapper">
+          <div class="chart-title">
+            Total Number of Crimes
+          </div>
+          <div class="chart-stage">
+            <div id="total-donations-nd"></div>
+          </div>
+        </div>
+      </div>
+      <!-- Metric 2 -->
+
+  </div>
+
+    <hr>
+    <p class="small text-muted"> University of Southampton | Data Science project | Built by Team 5</p>
+
+  </div>
+
+
+  <script src="./static/lib/js/jquery.min.js"></script>
+  <script src="./static/lib/js/bootstrap.min.js"></script>
+  
+   <!-- script src="./static/lib/bower_components/d3/d3.min.js" -->
+   <script src="./static/lib/js/d3.js"></script>
+
+ 
+ <script src="./static/lib/js/crossfilter.js"></script>
+  <!-- script src="./static/lib/bower_components/crossfilter/crossfilter.min.js"-->
+ 
+  <script src="./static/lib/js/dc.js"> </script>
+  <!-- script src="./static/lib/bower_components/dcjs/dc.js" -->
+
+  <script src="./static/lib/js/leaflet.js" ></script>
+  <!--script src="./static/lib/bower_components/leaflet/dist/leaflet.js" -->
+
+ <!--script src="./static/lib/bower_components/dc-addons/dist/leaflet-map/dc-leaflet.js" -->
+  <script src="./static/lib/js/dc.leaflet.js" ></script>
+
+  <script src="./static/lib/js/queue.js"></script>
+
+
+  <script src="./static/lib/js/keen.min.js"></script>
+  <script src='./static/js/graphs.js' type='text/javascript'></script>
+</body>
+</html>
