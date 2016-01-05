@@ -82,11 +82,13 @@
   <ItemGroup>
     <Content Include="images\crimelogo.png" />
     <Content Include="images\fingerprint.png" />
+    <Content Include="mapm.aspx" />
     <Content Include="mapT.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="data\LONStations.json" />
     <None Include="Properties\PublishProfiles\CrimeDV - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\CrimeDV - Web Deploy.pubxml" />
     <Content Include="data\dataStations.json" />
@@ -120,6 +122,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mapm.aspx.cs">
+      <DependentUpon>mapm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mapm.aspx.designer.cs">
+      <DependentUpon>mapm.aspx</DependentUpon>
     </Compile>
     <Compile Include="mapT.aspx.cs">
       <DependentUpon>mapT.aspx</DependentUpon>
