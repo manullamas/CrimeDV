@@ -5,6 +5,7 @@
 	<title>London crime data</title>
     <link rel="stylesheet" type="text/css" href="/styles/main.css" /> 
     <link rel="stylesheet" type="text/css" href="/styles/ol.css" /> 
+    <link rel="stylesheet" type="text/css" href="/styles/nv.d3.css" /> 
     <script src="/scripts/d3.min.js" charset="utf-8"></script>
     <script src="/scripts/ol.js"></script>
     <meta name="description" content="London crime data visualiser. Includes points of interest and demographics." />
