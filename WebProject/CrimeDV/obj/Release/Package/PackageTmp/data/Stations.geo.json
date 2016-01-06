@@ -9,6 +9,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Abbey Road",
         "Zone": "6",
@@ -23,6 +25,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Abbey Wood",
         "Zone": "9",
@@ -37,6 +41,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Acton Central",
         "Zone": "4",
@@ -51,6 +57,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Acton Main Line",
         "Zone": "6",
@@ -65,6 +73,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Acton Town",
         "Zone": "6",
@@ -79,6 +89,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Addington Village",
         "Zone": "8",
@@ -93,6 +105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Addiscombe",
         "Zone": "8",
@@ -107,6 +121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Albany Park",
         "Zone": "10",
@@ -121,6 +137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Aldgate",
         "Zone": "2",
@@ -135,6 +153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Aldgate East",
         "Zone": "2",
@@ -149,6 +169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Alexandra Palace",
         "Zone": "6",
@@ -163,6 +185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "All Saints",
         "Zone": "4",
@@ -177,6 +201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Alperton",
         "Zone": "9",
@@ -191,6 +217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Amersham",
         "Zone": "16",
@@ -205,6 +233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ampere Way",
         "Zone": "8",
@@ -219,6 +249,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Anerley",
         "Zone": "9",
@@ -233,6 +265,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Angel",
         "Zone": "2",
@@ -247,6 +281,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Angel Road",
         "Zone": "9",
@@ -261,6 +297,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Archway",
         "Zone": "5",
@@ -275,6 +313,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Arena",
         "Zone": "8",
@@ -289,6 +329,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Arnos Grove",
         "Zone": "9",
@@ -303,6 +345,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Arsenal",
         "Zone": "4",
@@ -317,6 +361,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Avenue Road",
         "Zone": "8",
@@ -331,6 +377,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Baker Street",
         "Zone": "2",
@@ -345,6 +393,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Balham",
         "Zone": "6",
@@ -359,6 +409,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bank & Monument",
         "Zone": "2",
@@ -373,6 +425,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Banstead",
         "Zone": "12",
@@ -387,6 +441,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barbican",
         "Zone": "2",
@@ -401,6 +457,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barking",
         "Zone": "9",
@@ -415,6 +473,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barkingside",
         "Zone": "9",
@@ -429,6 +489,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barnehurst",
         "Zone": "12",
@@ -443,6 +505,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barnes",
         "Zone": "6",
@@ -457,6 +521,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barnes Bridge",
         "Zone": "6",
@@ -471,6 +537,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Barons Court",
         "Zone": "4",
@@ -485,6 +553,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Battersea Park",
         "Zone": "4",
@@ -499,6 +569,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bayswater",
         "Zone": "2",
@@ -513,6 +585,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beckenham Hill",
         "Zone": "9",
@@ -527,6 +601,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beckenham Junction",
         "Zone": "9",
@@ -541,6 +617,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beckenham Road",
         "Zone": "8",
@@ -555,6 +633,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beckton",
         "Zone": "6",
@@ -569,6 +649,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beckton Park",
         "Zone": "6",
@@ -583,6 +665,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Becontree",
         "Zone": "10",
@@ -597,6 +681,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Beddington Lane",
         "Zone": "8",
@@ -611,6 +697,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Belgrave Walk",
         "Zone": "8",
@@ -625,6 +713,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bellingham",
         "Zone": "6",
@@ -639,6 +729,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Belmont",
         "Zone": "10",
@@ -653,6 +745,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Belsize Park",
         "Zone": "4",
@@ -667,6 +761,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Belvedere",
         "Zone": "10",
@@ -681,6 +777,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bermondsey",
         "Zone": "4",
@@ -695,6 +793,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Berrylands",
         "Zone": "10",
@@ -709,6 +809,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bethnal Green",
         "Zone": "4",
@@ -723,6 +825,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bethnal Green Rail",
         "Zone": "4",
@@ -737,6 +841,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bexley",
         "Zone": "12",
@@ -751,6 +857,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bexleyheath",
         "Zone": "10",
@@ -765,6 +873,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bickley",
         "Zone": "10",
@@ -779,6 +889,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Birkbeck",
         "Zone": "9",
@@ -793,6 +905,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Blackfriars",
         "Zone": "2",
@@ -807,6 +921,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Blackheath",
         "Zone": "6",
@@ -821,6 +937,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Blackhorse Lane",
         "Zone": "8",
@@ -835,6 +953,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Blackhorse Road",
         "Zone": "6",
@@ -849,6 +969,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Blackwall",
         "Zone": "4",
@@ -863,6 +985,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bond Street",
         "Zone": "2",
@@ -877,6 +1001,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Borough",
         "Zone": "2",
@@ -891,6 +1017,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Boston Manor",
         "Zone": "9",
@@ -905,6 +1033,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bounds Green",
         "Zone": "7",
@@ -919,6 +1049,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bow Church",
         "Zone": "4",
@@ -933,6 +1065,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bow Road",
         "Zone": "4",
@@ -947,6 +1081,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bowes Park",
         "Zone": "7",
@@ -961,6 +1097,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brent Cross",
         "Zone": "6",
@@ -975,6 +1113,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brentford",
         "Zone": "9",
@@ -989,6 +1129,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brentwood",
         "Zone": "14",
@@ -1003,6 +1145,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brimsdown",
         "Zone": "10",
@@ -1017,6 +1161,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brixton",
         "Zone": "4",
@@ -1031,6 +1177,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brockley",
         "Zone": "4",
@@ -1045,6 +1193,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bromley-by-Bow",
         "Zone": "5",
@@ -1059,6 +1209,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bromley North",
         "Zone": "9",
@@ -1073,6 +1225,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bromley South",
         "Zone": "10",
@@ -1087,6 +1241,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brondesbury",
         "Zone": "4",
@@ -1101,6 +1257,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Brondesbury Park",
         "Zone": "4",
@@ -1115,6 +1273,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Broxbourne",
         "Zone": "16",
@@ -1129,6 +1289,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bruce Grove",
         "Zone": "6",
@@ -1143,6 +1305,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Buckhurst Hill",
         "Zone": "10",
@@ -1157,6 +1321,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Burnt Oak",
         "Zone": "9",
@@ -1171,6 +1337,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bush Hill Park",
         "Zone": "10",
@@ -1185,6 +1353,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Bushey",
         "Zone": "15",
@@ -1199,6 +1369,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Caledonian Road",
         "Zone": "4",
@@ -1213,6 +1385,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Caledonian Road & Barnsbury",
         "Zone": "4",
@@ -1227,6 +1401,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cambridge Heath",
         "Zone": "4",
@@ -1241,6 +1417,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Camden Road",
         "Zone": "4",
@@ -1255,6 +1433,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Camden Town",
         "Zone": "4",
@@ -1269,6 +1449,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Canada Water",
         "Zone": "4",
@@ -1283,6 +1465,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Canary Wharf",
         "Zone": "4",
@@ -1297,6 +1481,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Canning Town",
         "Zone": "6",
@@ -1311,6 +1497,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cannon Street",
         "Zone": "2",
@@ -1325,6 +1513,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Canonbury",
         "Zone": "4",
@@ -1339,6 +1529,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Canons Park",
         "Zone": "10",
@@ -1353,6 +1545,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Carpenders Park",
         "Zone": "14",
@@ -1367,6 +1561,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Carshalton",
         "Zone": "10",
@@ -1381,6 +1577,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Carshalton Beeches",
         "Zone": "10",
@@ -1395,6 +1593,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Castle Bar Park",
         "Zone": "9",
@@ -1409,6 +1609,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Caterham",
         "Zone": "12",
@@ -1423,6 +1625,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Catford",
         "Zone": "6",
@@ -1437,6 +1641,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Catford Bridge",
         "Zone": "6",
@@ -1451,6 +1657,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Centrale",
         "Zone": "8",
@@ -1465,6 +1673,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chadwell Heath",
         "Zone": "10",
@@ -1479,6 +1689,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chafford Hundred",
         "Zone": "14",
@@ -1493,6 +1705,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chalfont & Latimer",
         "Zone": "15",
@@ -1507,6 +1721,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chalk Farm",
         "Zone": "4",
@@ -1521,6 +1737,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chancery Lane",
         "Zone": "2",
@@ -1535,6 +1753,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Charing Cross",
         "Zone": "2",
@@ -1549,6 +1769,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Charlton",
         "Zone": "6",
@@ -1563,6 +1785,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cheam",
         "Zone": "10",
@@ -1577,6 +1801,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chelsfield",
         "Zone": "12",
@@ -1591,6 +1817,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chesham",
         "Zone": "16",
@@ -1605,6 +1833,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cheshunt",
         "Zone": "15",
@@ -1619,6 +1849,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chessington North",
         "Zone": "12",
@@ -1633,6 +1865,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chessington South",
         "Zone": "12",
@@ -1647,6 +1881,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chigwell",
         "Zone": "9",
@@ -1661,6 +1897,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chingford",
         "Zone": "10",
@@ -1675,6 +1913,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chipstead",
         "Zone": "12",
@@ -1689,6 +1929,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chislehurst",
         "Zone": "10",
@@ -1703,6 +1945,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chiswick",
         "Zone": "6",
@@ -1717,6 +1961,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chiswick Park",
         "Zone": "6",
@@ -1731,6 +1977,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Chorleywood",
         "Zone": "14",
@@ -1745,6 +1993,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Church Street",
         "Zone": "8",
@@ -1759,6 +2009,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "City Thameslink",
         "Zone": "2",
@@ -1773,6 +2025,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapham Common",
         "Zone": "4",
@@ -1787,6 +2041,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapham High Street",
         "Zone": "4",
@@ -1801,6 +2057,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapham Junction",
         "Zone": "4",
@@ -1815,6 +2073,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapham North",
         "Zone": "4",
@@ -1829,6 +2089,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapham South",
         "Zone": "5",
@@ -1843,6 +2105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clapton",
         "Zone": "4",
@@ -1857,6 +2121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Clock House",
         "Zone": "9",
@@ -1871,6 +2137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cobham & Stoke D'Abernon",
         "Zone": "1",
@@ -1885,6 +2153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cockfosters",
         "Zone": "10",
@@ -1899,6 +2169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Colindale",
         "Zone": "9",
@@ -1913,6 +2185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Colliers Wood",
         "Zone": "6",
@@ -1927,6 +2201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Coombe Lane",
         "Zone": "8",
@@ -1941,6 +2217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Coulsdon South",
         "Zone": "12",
@@ -1955,6 +2233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Covent Garden",
         "Zone": "2",
@@ -1969,6 +2249,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crayford",
         "Zone": "12",
@@ -1983,6 +2265,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crews Hill",
         "Zone": "12",
@@ -1997,6 +2281,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cricklewood",
         "Zone": "6",
@@ -2011,6 +2297,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crofton Park",
         "Zone": "6",
@@ -2025,6 +2313,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crossharbour & London Arena",
         "Zone": "4",
@@ -2039,6 +2329,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crouch Hill",
         "Zone": "6",
@@ -2053,6 +2345,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Croxley",
         "Zone": "14",
@@ -2067,6 +2361,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Crystal Palace",
         "Zone": "7",
@@ -2081,6 +2377,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Custom House",
         "Zone": "6",
@@ -2095,6 +2393,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cutty Sark for Maritime Greenwich",
         "Zone": "4",
@@ -2109,6 +2409,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Cyprus",
         "Zone": "6",
@@ -2123,6 +2425,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dagenham Dock",
         "Zone": "10",
@@ -2137,6 +2441,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dagenham East",
         "Zone": "10",
@@ -2151,6 +2457,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dagenham Heathway",
         "Zone": "10",
@@ -2165,6 +2473,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dalston Junction",
         "Zone": "4",
@@ -2179,6 +2489,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dalston Kingsland",
         "Zone": "4",
@@ -2193,6 +2505,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dartford",
         "Zone": "1",
@@ -2207,6 +2521,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Debden",
         "Zone": "12",
@@ -2221,6 +2537,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Denmark Hill",
         "Zone": "4",
@@ -2235,6 +2553,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Deptford",
         "Zone": "4",
@@ -2249,6 +2569,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Deptford Bridge",
         "Zone": "5",
@@ -2263,6 +2585,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Devons Road",
         "Zone": "4",
@@ -2277,6 +2601,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dollis Hill",
         "Zone": "6",
@@ -2291,6 +2617,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Drayton Green",
         "Zone": "9",
@@ -2305,6 +2633,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Drayton Park",
         "Zone": "4",
@@ -2319,6 +2649,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Dundonald Road",
         "Zone": "8",
@@ -2333,6 +2665,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ealing Broadway",
         "Zone": "6",
@@ -2347,6 +2681,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ealing Common",
         "Zone": "6",
@@ -2361,6 +2697,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Earl's Court",
         "Zone": "3",
@@ -2375,6 +2713,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Earlsfield",
         "Zone": "6",
@@ -2389,6 +2729,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Acton",
         "Zone": "4",
@@ -2403,6 +2745,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Croydon",
         "Zone": "10",
@@ -2417,6 +2761,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Dulwich",
         "Zone": "4",
@@ -2431,6 +2777,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Finchley",
         "Zone": "6",
@@ -2445,6 +2793,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Ham",
         "Zone": "7",
@@ -2459,6 +2809,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East India",
         "Zone": "5",
@@ -2473,6 +2825,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "East Putney",
         "Zone": "5",
@@ -2487,6 +2841,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Eastcote",
         "Zone": "10",
@@ -2501,6 +2857,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Eden Park",
         "Zone": "10",
@@ -2515,6 +2873,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Edgware",
         "Zone": "10",
@@ -2529,6 +2889,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Edgware Road (Bak)",
         "Zone": "2",
@@ -2543,6 +2905,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Edgware Road (Cir)",
         "Zone": "2",
@@ -2557,6 +2921,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Edmonton Green",
         "Zone": "9",
@@ -2571,6 +2937,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elephant & Castle",
         "Zone": "3",
@@ -2585,6 +2953,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elm Park",
         "Zone": "12",
@@ -2599,6 +2969,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elmers End",
         "Zone": "9",
@@ -2613,6 +2985,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elmstead Woods",
         "Zone": "9",
@@ -2627,6 +3001,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elstree & Borehamwood",
         "Zone": "12",
@@ -2641,6 +3017,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Eltham",
         "Zone": "9",
@@ -2655,6 +3033,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Elverson Road",
         "Zone": "5",
@@ -2669,6 +3049,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Embankment",
         "Zone": "2",
@@ -2683,6 +3065,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Emerson Park",
         "Zone": "12",
@@ -2697,6 +3081,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Enfield Chase",
         "Zone": "10",
@@ -2711,6 +3097,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Enfield Lock",
         "Zone": "12",
@@ -2725,6 +3113,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Enfield Town",
         "Zone": "10",
@@ -2739,6 +3129,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Epping",
         "Zone": "12",
@@ -2753,6 +3145,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Epsom Downs",
         "Zone": "12",
@@ -2767,6 +3161,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Erith",
         "Zone": "12",
@@ -2781,6 +3177,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Essex Road",
         "Zone": "4",
@@ -2795,6 +3193,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Euston",
         "Zone": "2",
@@ -2809,6 +3209,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Euston Square",
         "Zone": "2",
@@ -2823,6 +3225,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ewell East",
         "Zone": "12",
@@ -2837,6 +3241,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ewell West",
         "Zone": "12",
@@ -2851,6 +3257,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Fairlop",
         "Zone": "9",
@@ -2865,6 +3273,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Falconwood",
         "Zone": "9",
@@ -2879,6 +3289,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Farringdon",
         "Zone": "2",
@@ -2893,6 +3305,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Feltham",
         "Zone": "12",
@@ -2907,6 +3321,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Fenchurch Street",
         "Zone": "2",
@@ -2921,6 +3337,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Fieldway",
         "Zone": "8",
@@ -2935,6 +3353,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Finchley Central",
         "Zone": "9",
@@ -2949,6 +3369,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Finchley Road",
         "Zone": "4",
@@ -2963,6 +3385,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Finchley Road & Frognal",
         "Zone": "4",
@@ -2977,6 +3401,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Finsbury Park",
         "Zone": "4",
@@ -2991,6 +3417,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Forest Gate",
         "Zone": "6",
@@ -3005,6 +3433,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Forest Hill",
         "Zone": "6",
@@ -3019,6 +3449,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Fulham Broadway",
         "Zone": "4",
@@ -3033,6 +3465,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Fulwell",
         "Zone": "12",
@@ -3047,6 +3481,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gallions Reach",
         "Zone": "6",
@@ -3061,6 +3497,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gants Hill",
         "Zone": "9",
@@ -3075,6 +3513,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "George Street",
         "Zone": "8",
@@ -3089,6 +3529,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gidea Park",
         "Zone": "12",
@@ -3103,6 +3545,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gipsy Hill",
         "Zone": "6",
@@ -3117,6 +3561,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gloucester Road",
         "Zone": "2",
@@ -3131,6 +3577,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Golders Green",
         "Zone": "6",
@@ -3145,6 +3593,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Goldhawk Road",
         "Zone": "4",
@@ -3159,6 +3609,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Goodge Street",
         "Zone": "2",
@@ -3173,6 +3625,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Goodmayes",
         "Zone": "9",
@@ -3187,6 +3641,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gordon Hill",
         "Zone": "10",
@@ -3201,6 +3657,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gospel Oak",
         "Zone": "4",
@@ -3215,6 +3673,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Grange Hill",
         "Zone": "9",
@@ -3229,6 +3689,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Grange Park",
         "Zone": "10",
@@ -3243,6 +3705,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gravel Hill",
         "Zone": "8",
@@ -3257,6 +3721,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Great Portland Street",
         "Zone": "2",
@@ -3271,6 +3737,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Green Park",
         "Zone": "2",
@@ -3285,6 +3753,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Greenford",
         "Zone": "9",
@@ -3299,6 +3769,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Greenwich",
         "Zone": "5",
@@ -3313,6 +3785,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Grove Park",
         "Zone": "9",
@@ -3327,6 +3801,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Gunnersbury",
         "Zone": "6",
@@ -3341,6 +3817,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hackbridge",
         "Zone": "9",
@@ -3355,6 +3833,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hackney Central",
         "Zone": "4",
@@ -3369,6 +3849,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hackney Downs",
         "Zone": "4",
@@ -3383,6 +3865,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hackney Wick",
         "Zone": "4",
@@ -3397,6 +3881,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hadley Wood",
         "Zone": "12",
@@ -3411,6 +3897,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Haggerston",
         "Zone": "4",
@@ -3425,6 +3913,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hainault",
         "Zone": "9",
@@ -3439,6 +3929,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hammersmith (Dis)",
         "Zone": "4",
@@ -3453,6 +3945,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hammersmith (H&C)",
         "Zone": "4",
@@ -3467,6 +3961,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hampstead",
         "Zone": "4",
@@ -3481,6 +3977,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hampstead Heath",
         "Zone": "6",
@@ -3495,6 +3993,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hampton",
         "Zone": "12",
@@ -3509,6 +4009,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hampton Court",
         "Zone": "12",
@@ -3523,6 +4025,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hampton Wick",
         "Zone": "12",
@@ -3537,6 +4041,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hanger Lane",
         "Zone": "6",
@@ -3551,6 +4057,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hanwell",
         "Zone": "9",
@@ -3565,6 +4073,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harlesden",
         "Zone": "6",
@@ -3579,6 +4089,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harold Wood",
         "Zone": "12",
@@ -3593,6 +4105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harringay",
         "Zone": "6",
@@ -3607,6 +4121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harringay Green Lanes",
         "Zone": "6",
@@ -3621,6 +4137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harrington Road",
         "Zone": "8",
@@ -3635,6 +4153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harrow-on-the-Hill",
         "Zone": "10",
@@ -3649,6 +4169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Harrow & Wealdstone",
         "Zone": "10",
@@ -3663,6 +4185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hatch End",
         "Zone": "12",
@@ -3677,6 +4201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hatton Cross",
         "Zone": "11",
@@ -3691,6 +4217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Haydons Road",
         "Zone": "6",
@@ -3705,6 +4233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hayes",
         "Zone": "10",
@@ -3719,6 +4249,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hayes & Harlington",
         "Zone": "10",
@@ -3733,6 +4265,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Headstone Lane",
         "Zone": "10",
@@ -3747,6 +4281,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Heathrow Terminal 4",
         "Zone": "12",
@@ -3761,6 +4297,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Heathrow Terminal 5",
         "Zone": "12",
@@ -3775,6 +4313,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Heathrow Terminals 123",
         "Zone": "12",
@@ -3789,6 +4329,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hendon",
         "Zone": "7",
@@ -3803,6 +4345,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hendon Central",
         "Zone": "7",
@@ -3817,6 +4361,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Herne Hill",
         "Zone": "5",
@@ -3831,6 +4377,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Heron Quays",
         "Zone": "4",
@@ -3845,6 +4393,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "High Barnet",
         "Zone": "10",
@@ -3859,6 +4409,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "High Street Kensington",
         "Zone": "2",
@@ -3873,6 +4425,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Highams Park",
         "Zone": "9",
@@ -3887,6 +4441,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Highbury & Islington",
         "Zone": "4",
@@ -3901,6 +4457,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Highgate",
         "Zone": "6",
@@ -3915,6 +4473,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hillingdon",
         "Zone": "12",
@@ -3929,6 +4489,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hither Green",
         "Zone": "6",
@@ -3943,6 +4505,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Holborn",
         "Zone": "2",
@@ -3957,6 +4521,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Holland Park",
         "Zone": "4",
@@ -3971,6 +4537,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Holloway Road",
         "Zone": "4",
@@ -3985,6 +4553,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Homerton",
         "Zone": "4",
@@ -3999,6 +4569,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Honor Oak Park",
         "Zone": "6",
@@ -4013,6 +4585,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hornchurch",
         "Zone": "12",
@@ -4027,6 +4601,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hornsey",
         "Zone": "6",
@@ -4041,6 +4617,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hounslow",
         "Zone": "10",
@@ -4055,6 +4633,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hounslow Central",
         "Zone": "9",
@@ -4069,6 +4649,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hounslow East",
         "Zone": "9",
@@ -4083,6 +4665,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hounslow West",
         "Zone": "10",
@@ -4097,6 +4681,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hoxton",
         "Zone": "3",
@@ -4111,6 +4697,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Hyde Park Corner",
         "Zone": "2",
@@ -4125,6 +4713,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ickenham",
         "Zone": "12",
@@ -4139,6 +4729,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ilford",
         "Zone": "9",
@@ -4153,6 +4745,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Imperial Wharf",
         "Zone": "4",
@@ -4167,6 +4761,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Island Gardens",
         "Zone": "4",
@@ -4181,6 +4777,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Isleworth",
         "Zone": "9",
@@ -4195,6 +4793,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kenley",
         "Zone": "12",
@@ -4209,6 +4809,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kennington",
         "Zone": "4",
@@ -4223,6 +4825,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kensal Green",
         "Zone": "4",
@@ -4237,6 +4841,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kensal Rise",
         "Zone": "4",
@@ -4251,6 +4857,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kensington (Olympia)",
         "Zone": "4",
@@ -4265,6 +4873,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kent House",
         "Zone": "9",
@@ -4279,6 +4889,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kentish Town",
         "Zone": "4",
@@ -4293,6 +4905,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kentish Town West",
         "Zone": "4",
@@ -4307,6 +4921,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kenton",
         "Zone": "9",
@@ -4321,6 +4937,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kew Bridge",
         "Zone": "6",
@@ -4335,6 +4953,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kew Gardens",
         "Zone": "7",
@@ -4349,6 +4969,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kidbrooke",
         "Zone": "6",
@@ -4363,6 +4985,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kilburn",
         "Zone": "4",
@@ -4377,6 +5001,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kilburn High Road",
         "Zone": "4",
@@ -4391,6 +5017,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kilburn Park",
         "Zone": "4",
@@ -4405,6 +5033,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "King's Cross",
         "Zone": "2",
@@ -4419,6 +5049,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "King George V",
         "Zone": "6",
@@ -4433,6 +5065,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "King Henry's Drive",
         "Zone": "8",
@@ -4447,6 +5081,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kings Cross St. Pancras",
         "Zone": "2",
@@ -4461,6 +5097,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kingsbury",
         "Zone": "9",
@@ -4475,6 +5113,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kingston",
         "Zone": "12",
@@ -4489,6 +5129,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Kingswood",
         "Zone": "12",
@@ -4503,6 +5145,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Knightsbridge",
         "Zone": "2",
@@ -4517,6 +5161,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Knockholt",
         "Zone": "12",
@@ -4531,6 +5177,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ladbroke Grove",
         "Zone": "4",
@@ -4545,6 +5193,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ladywell",
         "Zone": "6",
@@ -4559,6 +5209,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lambeth North",
         "Zone": "2",
@@ -4573,6 +5225,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lancaster Gate",
         "Zone": "2",
@@ -4587,6 +5241,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Langdon Park",
         "Zone": "4",
@@ -4601,6 +5257,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Latimer Road",
         "Zone": "4",
@@ -4615,6 +5273,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lebanon Road",
         "Zone": "8",
@@ -4629,6 +5289,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lee",
         "Zone": "6",
@@ -4643,6 +5305,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Leicester Square",
         "Zone": "2",
@@ -4657,6 +5321,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lewisham",
         "Zone": "5",
@@ -4671,6 +5337,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Leyton",
         "Zone": "6",
@@ -4685,6 +5353,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Leyton Midland Road",
         "Zone": "6",
@@ -4699,6 +5369,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Leytonstone",
         "Zone": "7",
@@ -4713,6 +5385,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Leytonstone High Road",
         "Zone": "6",
@@ -4727,6 +5401,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Limehouse",
         "Zone": "4",
@@ -4741,6 +5417,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Liverpool Street",
         "Zone": "2",
@@ -4755,6 +5433,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lloyd Park",
         "Zone": "8",
@@ -4769,6 +5449,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "London Bridge",
         "Zone": "2",
@@ -4783,6 +5465,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "London City Airport",
         "Zone": "6",
@@ -4797,6 +5481,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "London Fields",
         "Zone": "4",
@@ -4811,6 +5497,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Loughborough Junction",
         "Zone": "4",
@@ -4825,6 +5513,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Loughton",
         "Zone": "12",
@@ -4839,6 +5529,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Lower Sydenham",
         "Zone": "9",
@@ -4853,6 +5545,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Maida Vale",
         "Zone": "4",
@@ -4867,6 +5561,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Malden Manor",
         "Zone": "9",
@@ -4881,6 +5577,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Manor House",
         "Zone": "5",
@@ -4895,6 +5593,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Manor Park",
         "Zone": "7",
@@ -4909,6 +5609,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mansion House",
         "Zone": "2",
@@ -4923,6 +5625,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Marble Arch",
         "Zone": "2",
@@ -4937,6 +5641,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Maryland",
         "Zone": "6",
@@ -4951,6 +5657,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Marylebone",
         "Zone": "2",
@@ -4965,6 +5673,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Maze Hill",
         "Zone": "6",
@@ -4979,6 +5689,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Merton Park",
         "Zone": "8",
@@ -4993,6 +5705,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mile End",
         "Zone": "4",
@@ -5007,6 +5721,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mill Hill Broadway",
         "Zone": "9",
@@ -5021,6 +5737,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mill Hill East",
         "Zone": "9",
@@ -5035,6 +5753,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mitcham",
         "Zone": "8",
@@ -5049,6 +5769,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mitcham Eastfields",
         "Zone": "6",
@@ -5063,6 +5785,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mitcham Junction",
         "Zone": "9",
@@ -5077,6 +5801,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Monument",
         "Zone": "2",
@@ -5091,6 +5817,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Moor Park",
         "Zone": "13",
@@ -5105,6 +5833,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Moorgate",
         "Zone": "2",
@@ -5119,6 +5849,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Morden",
         "Zone": "9",
@@ -5133,6 +5865,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Morden Road",
         "Zone": "8",
@@ -5147,6 +5881,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Morden South",
         "Zone": "9",
@@ -5161,6 +5897,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mornington Crescent",
         "Zone": "4",
@@ -5175,6 +5913,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mortlake",
         "Zone": "6",
@@ -5189,6 +5929,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Motspur Park",
         "Zone": "9",
@@ -5203,6 +5945,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mottingham",
         "Zone": "9",
@@ -5217,6 +5961,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Mudchute",
         "Zone": "4",
@@ -5231,6 +5977,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Neasden",
         "Zone": "6",
@@ -5245,6 +5993,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Addington",
         "Zone": "8",
@@ -5259,6 +6009,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Barnet",
         "Zone": "10",
@@ -5273,6 +6025,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Beckenham",
         "Zone": "9",
@@ -5287,6 +6041,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Cross",
         "Zone": "4",
@@ -5301,6 +6057,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Cross Gate",
         "Zone": "4",
@@ -5315,6 +6073,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Eltham",
         "Zone": "9",
@@ -5329,6 +6089,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Malden",
         "Zone": "9",
@@ -5343,6 +6105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "New Southgate",
         "Zone": "9",
@@ -5357,6 +6121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Newbury Park",
         "Zone": "9",
@@ -5371,6 +6137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Norbiton",
         "Zone": "10",
@@ -5385,6 +6153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Norbury",
         "Zone": "6",
@@ -5399,6 +6169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Acton",
         "Zone": "5",
@@ -5413,6 +6185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Dulwich",
         "Zone": "5",
@@ -5427,6 +6201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Ealing",
         "Zone": "6",
@@ -5441,6 +6217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Greenwich",
         "Zone": "5",
@@ -5455,6 +6233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Harrow",
         "Zone": "10",
@@ -5469,6 +6249,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Sheen",
         "Zone": "6",
@@ -5483,6 +6265,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "North Wembley",
         "Zone": "9",
@@ -5497,6 +6281,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northfields",
         "Zone": "6",
@@ -5511,6 +6297,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northolt",
         "Zone": "10",
@@ -5525,6 +6313,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northolt Park",
         "Zone": "10",
@@ -5539,6 +6329,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northwick Park",
         "Zone": "9",
@@ -5553,6 +6345,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northwood",
         "Zone": "12",
@@ -5567,6 +6361,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Northwood Hills",
         "Zone": "12",
@@ -5581,6 +6377,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Norwood Junction",
         "Zone": "9",
@@ -5595,6 +6393,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Notting Hill Gate",
         "Zone": "3",
@@ -5609,6 +6409,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Nunhead",
         "Zone": "4",
@@ -5623,6 +6425,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Oakleigh Park",
         "Zone": "9",
@@ -5637,6 +6441,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Oakwood",
         "Zone": "10",
@@ -5651,6 +6457,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ockendon",
         "Zone": "14",
@@ -5665,6 +6473,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Old Street",
         "Zone": "2",
@@ -5679,6 +6489,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Orpington",
         "Zone": "12",
@@ -5693,6 +6505,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Osterley",
         "Zone": "9",
@@ -5707,6 +6521,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Oval",
         "Zone": "4",
@@ -5721,6 +6537,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Oxford Circus",
         "Zone": "2",
@@ -5735,6 +6553,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Paddington",
         "Zone": "2",
@@ -5749,6 +6569,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Palmers Green",
         "Zone": "9",
@@ -5763,6 +6585,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Park Royal",
         "Zone": "6",
@@ -5777,6 +6601,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Parsons Green",
         "Zone": "4",
@@ -5791,6 +6617,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Peckham Rye",
         "Zone": "4",
@@ -5805,6 +6633,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Penge East",
         "Zone": "9",
@@ -5819,6 +6649,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Penge West",
         "Zone": "9",
@@ -5833,6 +6665,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Perivale",
         "Zone": "9",
@@ -5847,6 +6681,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Petts Wood",
         "Zone": "10",
@@ -5861,6 +6697,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Phipps Bridge",
         "Zone": "8",
@@ -5875,6 +6713,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Piccadilly Circus",
         "Zone": "2",
@@ -5889,6 +6729,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Pimlico",
         "Zone": "2",
@@ -5903,6 +6745,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Pinner",
         "Zone": "10",
@@ -5917,6 +6761,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Plaistow",
         "Zone": "6",
@@ -5931,6 +6777,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Plumstead",
         "Zone": "9",
@@ -5945,6 +6793,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ponders End",
         "Zone": "10",
@@ -5959,6 +6809,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Pontoon Dock",
         "Zone": "6",
@@ -5973,6 +6825,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Poplar",
         "Zone": "4",
@@ -5987,6 +6841,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Preston Road",
         "Zone": "9",
@@ -6001,6 +6857,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Prince Regent",
         "Zone": "6",
@@ -6015,6 +6873,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Pudding Mill Lane",
         "Zone": "5",
@@ -6029,6 +6889,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Purfleet",
         "Zone": "14",
@@ -6043,6 +6905,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Purley",
         "Zone": "12",
@@ -6057,6 +6921,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Purley Oaks",
         "Zone": "12",
@@ -6071,6 +6937,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Putney",
         "Zone": "5",
@@ -6085,6 +6953,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Putney Bridge",
         "Zone": "4",
@@ -6099,6 +6969,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Queens Park",
         "Zone": "4",
@@ -6113,6 +6985,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Queens Road Peckham",
         "Zone": "4",
@@ -6127,6 +7001,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Queensbury",
         "Zone": "9",
@@ -6141,6 +7017,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Queenstown Road",
         "Zone": "4",
@@ -6155,6 +7033,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Queensway",
         "Zone": "2",
@@ -6169,6 +7049,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Radlett",
         "Zone": "1",
@@ -6183,6 +7065,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Rainham",
         "Zone": "12",
@@ -6197,6 +7081,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ravensbourne",
         "Zone": "9",
@@ -6211,6 +7097,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ravenscourt Park",
         "Zone": "4",
@@ -6225,6 +7113,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Rayners Lane",
         "Zone": "10",
@@ -6239,6 +7129,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Raynes Park",
         "Zone": "9",
@@ -6253,6 +7145,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Rectory Road",
         "Zone": "4",
@@ -6267,6 +7161,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Redbridge",
         "Zone": "9",
@@ -6281,6 +7177,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Reedham",
         "Zone": "12",
@@ -6295,6 +7193,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Reeves Corner",
         "Zone": "8",
@@ -6309,6 +7209,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Regents Park",
         "Zone": "2",
@@ -6323,6 +7225,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Richmond",
         "Zone": "9",
@@ -6337,6 +7241,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Rickmansworth",
         "Zone": "14",
@@ -6351,6 +7257,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Riddlesdown",
         "Zone": "12",
@@ -6365,6 +7273,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Roding Valley",
         "Zone": "9",
@@ -6379,6 +7289,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Romford",
         "Zone": "12",
@@ -6393,6 +7305,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Rotherhithe",
         "Zone": "4",
@@ -6407,6 +7321,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Royal Albert",
         "Zone": "6",
@@ -6421,6 +7337,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Royal Oak",
         "Zone": "4",
@@ -6435,6 +7353,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Royal Victoria",
         "Zone": "6",
@@ -6449,6 +7369,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ruislip",
         "Zone": "12",
@@ -6463,6 +7385,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ruislip Gardens",
         "Zone": "10",
@@ -6477,6 +7401,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Ruislip Manor",
         "Zone": "12",
@@ -6491,6 +7417,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Russell Square",
         "Zone": "2",
@@ -6505,6 +7433,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sanderstead",
         "Zone": "12",
@@ -6519,6 +7449,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sandilands",
         "Zone": "8",
@@ -6533,6 +7465,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Selhurst",
         "Zone": "9",
@@ -6547,6 +7481,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Seven Kings",
         "Zone": "9",
@@ -6561,6 +7497,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Seven Sisters",
         "Zone": "6",
@@ -6575,6 +7513,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shadwell",
         "Zone": "4",
@@ -6589,6 +7529,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shenfield",
         "Zone": "14",
@@ -6603,6 +7545,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shepherds Bush",
         "Zone": "4",
@@ -6617,6 +7561,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shepherds Bush Market",
         "Zone": "4",
@@ -6631,6 +7577,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shoreditch High Street",
         "Zone": "2",
@@ -6645,6 +7593,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Shortlands",
         "Zone": "9",
@@ -6659,6 +7609,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sidcup",
         "Zone": "10",
@@ -6673,6 +7625,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Silver Street",
         "Zone": "9",
@@ -6687,6 +7641,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Slade Green",
         "Zone": "12",
@@ -6701,6 +7657,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sloane Square",
         "Zone": "2",
@@ -6715,6 +7673,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Smitham",
         "Zone": "12",
@@ -6729,6 +7689,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Snaresbrook",
         "Zone": "9",
@@ -6743,6 +7705,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Acton",
         "Zone": "6",
@@ -6757,6 +7721,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Bermondsey",
         "Zone": "4",
@@ -6771,6 +7737,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Croydon",
         "Zone": "10",
@@ -6785,6 +7753,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Ealing",
         "Zone": "6",
@@ -6799,6 +7769,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Hampstead",
         "Zone": "4",
@@ -6813,6 +7785,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Harrow",
         "Zone": "10",
@@ -6827,6 +7801,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Kensington",
         "Zone": "2",
@@ -6841,6 +7817,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Kenton",
         "Zone": "9",
@@ -6855,6 +7833,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Merton",
         "Zone": "9",
@@ -6869,6 +7849,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Quay",
         "Zone": "4",
@@ -6883,6 +7865,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Ruislip",
         "Zone": "10",
@@ -6897,6 +7881,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Tottenham",
         "Zone": "6",
@@ -6911,6 +7897,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Wimbledon",
         "Zone": "7",
@@ -6925,6 +7913,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "South Woodford",
         "Zone": "9",
@@ -6939,6 +7929,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Southall",
         "Zone": "9",
@@ -6953,6 +7945,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Southbury",
         "Zone": "10",
@@ -6967,6 +7961,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Southfields",
         "Zone": "6",
@@ -6981,6 +7977,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Southgate",
         "Zone": "9",
@@ -6995,6 +7993,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Southwark",
         "Zone": "2",
@@ -7009,6 +8009,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St Helier",
         "Zone": "9",
@@ -7023,6 +8025,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St James Street",
         "Zone": "6",
@@ -7037,6 +8041,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St Johns",
         "Zone": "4",
@@ -7051,6 +8057,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St Margarets",
         "Zone": "9",
@@ -7065,6 +8073,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St Mary Cray",
         "Zone": "12",
@@ -7079,6 +8089,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St. James's Park",
         "Zone": "2",
@@ -7093,6 +8105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St. Johns Wood",
         "Zone": "4",
@@ -7107,6 +8121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St. Pauls",
         "Zone": "2",
@@ -7121,6 +8137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "St.Pancras",
         "Zone": "2",
@@ -7135,6 +8153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stamford Brook",
         "Zone": "4",
@@ -7149,6 +8169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stamford Hill",
         "Zone": "6",
@@ -7163,6 +8185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stanmore",
         "Zone": "10",
@@ -7177,6 +8201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Star Lane",
         "Zone": "6",
@@ -7191,6 +8217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stepney Green",
         "Zone": "4",
@@ -7205,6 +8233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stockwell",
         "Zone": "4",
@@ -7219,6 +8249,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stoke Newington",
         "Zone": "4",
@@ -7233,6 +8265,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stonebridge Park",
         "Zone": "6",
@@ -7247,6 +8281,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stoneleigh",
         "Zone": "10",
@@ -7261,6 +8297,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stratford",
         "Zone": "6",
@@ -7275,6 +8313,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stratford High Street",
         "Zone": "6",
@@ -7289,6 +8329,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Stratford International",
         "Zone": "6",
@@ -7303,6 +8345,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Strawberry Hill",
         "Zone": "10",
@@ -7317,6 +8361,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Streatham",
         "Zone": "6",
@@ -7331,6 +8377,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Streatham Common",
         "Zone": "6",
@@ -7345,6 +8393,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Streatham Hill",
         "Zone": "6",
@@ -7359,6 +8409,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sudbury & Harrow Road",
         "Zone": "9",
@@ -7373,6 +8425,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sudbury Hill",
         "Zone": "9",
@@ -7387,6 +8441,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sudbury Hill Harrow",
         "Zone": "9",
@@ -7401,6 +8457,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sudbury Town",
         "Zone": "9",
@@ -7415,6 +8473,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sundridge Park",
         "Zone": "9",
@@ -7429,6 +8489,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Surbiton",
         "Zone": "12",
@@ -7443,6 +8505,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Surrey Quays",
         "Zone": "4",
@@ -7457,6 +8521,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sutton",
         "Zone": "10",
@@ -7471,6 +8537,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sutton Common",
         "Zone": "9",
@@ -7485,6 +8553,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Swiss Cottage",
         "Zone": "4",
@@ -7499,6 +8569,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sydenham",
         "Zone": "6",
@@ -7513,6 +8585,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Sydenham Hill",
         "Zone": "6",
@@ -7527,6 +8601,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Syon Lane",
         "Zone": "9",
@@ -7541,6 +8617,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tadworth",
         "Zone": "12",
@@ -7555,6 +8633,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tattenham Corner",
         "Zone": "12",
@@ -7569,6 +8649,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Teddington",
         "Zone": "12",
@@ -7583,6 +8665,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Temple",
         "Zone": "2",
@@ -7597,6 +8681,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Thames Ditton",
         "Zone": "12",
@@ -7611,6 +8697,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Theobalds Grove",
         "Zone": "14",
@@ -7625,6 +8713,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Therapia Lane",
         "Zone": "8",
@@ -7639,6 +8729,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Theydon Bois",
         "Zone": "12",
@@ -7653,6 +8745,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Thornton Heath",
         "Zone": "9",
@@ -7667,6 +8761,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tolworth",
         "Zone": "10",
@@ -7681,6 +8777,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tooting",
         "Zone": "6",
@@ -7695,6 +8793,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tooting Bec",
         "Zone": "6",
@@ -7709,6 +8809,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tooting Broadway",
         "Zone": "6",
@@ -7723,6 +8825,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tottenham Court Road",
         "Zone": "2",
@@ -7737,6 +8841,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tottenham Hale",
         "Zone": "6",
@@ -7751,6 +8857,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Totteridge & Whetstone",
         "Zone": "9",
@@ -7765,6 +8873,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tower Gateway",
         "Zone": "2",
@@ -7779,6 +8889,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tower Hill",
         "Zone": "2",
@@ -7793,6 +8905,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tufnell Park",
         "Zone": "4",
@@ -7807,6 +8921,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Tulse Hill",
         "Zone": "6",
@@ -7821,6 +8937,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Turkey Street",
         "Zone": "12",
@@ -7835,6 +8953,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Turnham Green",
         "Zone": "4",
@@ -7849,6 +8969,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Turnpike Lane",
         "Zone": "6",
@@ -7863,6 +8985,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Twickenham",
         "Zone": "10",
@@ -7877,6 +9001,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upminster",
         "Zone": "12",
@@ -7891,6 +9017,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upminster Bridge",
         "Zone": "12",
@@ -7905,6 +9033,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upney",
         "Zone": "9",
@@ -7919,6 +9049,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upper Holloway",
         "Zone": "4",
@@ -7933,6 +9065,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upper Warlingham",
         "Zone": "12",
@@ -7947,6 +9081,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Upton Park",
         "Zone": "6",
@@ -7961,6 +9097,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Uxbridge",
         "Zone": "12",
@@ -7975,6 +9113,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Vauxhall",
         "Zone": "3",
@@ -7989,6 +9129,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Victoria",
         "Zone": "2",
@@ -8003,6 +9145,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Waddon",
         "Zone": "10",
@@ -8017,6 +9161,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Waddon Marsh",
         "Zone": "8",
@@ -8031,6 +9177,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wallington",
         "Zone": "10",
@@ -8045,6 +9193,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Waltham Cross",
         "Zone": "14",
@@ -8059,6 +9209,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Walthamstow Central",
         "Zone": "6",
@@ -8073,6 +9225,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Walthamstow Queens Road",
         "Zone": "6",
@@ -8087,6 +9241,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wandle Park",
         "Zone": "8",
@@ -8101,6 +9257,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wandsworth Common",
         "Zone": "6",
@@ -8115,6 +9273,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wandsworth Road",
         "Zone": "4",
@@ -8129,6 +9289,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wandsworth Town",
         "Zone": "4",
@@ -8143,6 +9305,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wanstead",
         "Zone": "9",
@@ -8157,6 +9321,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wanstead Park",
         "Zone": "6",
@@ -8171,6 +9337,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wapping",
         "Zone": "4",
@@ -8185,6 +9353,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Warren Street",
         "Zone": "2",
@@ -8199,6 +9369,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Warwick Avenue",
         "Zone": "4",
@@ -8213,6 +9385,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Waterloo",
         "Zone": "2",
@@ -8227,6 +9401,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Watford",
         "Zone": "14",
@@ -8241,6 +9417,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Watford High Street",
         "Zone": "15",
@@ -8255,6 +9433,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Watford Junction",
         "Zone": "1",
@@ -8269,6 +9449,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wellesley Road",
         "Zone": "8",
@@ -8283,6 +9465,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Welling",
         "Zone": "9",
@@ -8297,6 +9481,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wembley Central",
         "Zone": "9",
@@ -8311,6 +9497,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wembley Park",
         "Zone": "9",
@@ -8325,6 +9513,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wembley Stadium",
         "Zone": "9",
@@ -8339,6 +9529,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Acton",
         "Zone": "6",
@@ -8353,6 +9545,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Brompton",
         "Zone": "4",
@@ -8367,6 +9561,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Croydon",
         "Zone": "10",
@@ -8381,6 +9577,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Drayton",
         "Zone": "12",
@@ -8395,6 +9593,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Dulwich",
         "Zone": "6",
@@ -8409,6 +9609,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Ealing",
         "Zone": "6",
@@ -8423,6 +9625,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Finchley",
         "Zone": "9",
@@ -8437,6 +9641,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Ham",
         "Zone": "6",
@@ -8451,6 +9657,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Hampstead",
         "Zone": "4",
@@ -8465,6 +9673,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Hampstead Thameslink",
         "Zone": "4",
@@ -8479,6 +9689,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Harrow",
         "Zone": "10",
@@ -8493,6 +9705,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West India Quay",
         "Zone": "4",
@@ -8507,6 +9721,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Kensington",
         "Zone": "4",
@@ -8521,6 +9737,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Norwood",
         "Zone": "6",
@@ -8535,6 +9753,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Ruislip",
         "Zone": "12",
@@ -8549,6 +9769,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Silvertown",
         "Zone": "6",
@@ -8563,6 +9785,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Sutton",
         "Zone": "10",
@@ -8577,6 +9801,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "West Wickham",
         "Zone": "10",
@@ -8591,6 +9817,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Westbourne Park",
         "Zone": "4",
@@ -8605,6 +9833,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Westcombe Park",
         "Zone": "6",
@@ -8619,6 +9849,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Westferry",
         "Zone": "4",
@@ -8633,6 +9865,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Westminster",
         "Zone": "2",
@@ -8647,6 +9881,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "White City",
         "Zone": "4",
@@ -8661,6 +9897,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "White Hart Lane",
         "Zone": "6",
@@ -8675,6 +9913,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Whitechapel",
         "Zone": "4",
@@ -8689,6 +9929,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Whitton",
         "Zone": "10",
@@ -8703,6 +9945,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Whyteleafe",
         "Zone": "12",
@@ -8717,6 +9961,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Whyteleafe South",
         "Zone": "12",
@@ -8731,6 +9977,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Willesden Green",
         "Zone": "5",
@@ -8745,6 +9993,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Willesden Junction",
         "Zone": "6",
@@ -8759,6 +10009,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wimbledon",
         "Zone": "6",
@@ -8773,6 +10025,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wimbledon Chase",
         "Zone": "6",
@@ -8787,6 +10041,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wimbledon Park",
         "Zone": "6",
@@ -8801,6 +10057,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Winchmore Hill",
         "Zone": "9",
@@ -8815,6 +10073,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wood Green",
         "Zone": "6",
@@ -8829,6 +10089,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wood Lane",
         "Zone": "4",
@@ -8843,6 +10105,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Wood Street",
         "Zone": "9",
@@ -8857,6 +10121,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woodford",
         "Zone": "9",
@@ -8871,6 +10137,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woodgrange Park",
         "Zone": "7",
@@ -8885,6 +10153,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woodmansterne",
         "Zone": "12",
@@ -8899,6 +10169,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woodside",
         "Zone": "8",
@@ -8913,6 +10185,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woodside Park",
         "Zone": "9",
@@ -8927,6 +10201,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woolwich Arsenal",
         "Zone": "9",
@@ -8941,6 +10217,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Woolwich Dockyard",
         "Zone": "6",
@@ -8955,6 +10233,8 @@
       },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": "Worcester Park",
         "Zone": "9",
@@ -8966,6 +10246,8 @@
       "geometry": { },
       "properties": {
         "marker-size": "small",
+        "stroke-opacity": 0.0,
+        "fill-opacity": 0.0,
         "marker-symbol": "rail",
         "title": ""
       }

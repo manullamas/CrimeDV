@@ -19,23 +19,22 @@
             <div class="headertitle">
                 <table class="headerTable"><tr><td class="headerText">London Crime Data Visualiser</td>
                     <td class="headerNav">
-                        <a href="/" class="navText"> Dashboard </a> | <a href="/mapn.aspx" class="navText">By Number</a> | <a href="/mapd.aspx" class="navText">By Density</a> | <a href="/mapb.aspx" class="navText">By Borrough</a></td></tr></table>
+                        <a href="/" class="navText"> Dashboard </a> | <a href="/mapc.aspx" class="navText">By Number</a> | <a href="/mapd.aspx" class="navText">By Density</a> | <a href="/mapb.aspx" class="navText">By Borrough</a></td></tr></table>
             </div>
         </div>
         <div class="body row" id="crimemap">
         </div>
         <div class="footer row">
             Site for Foundations of Data Science coursework. University of Southampton, 2016.
-            <div class="leyendBox"><img src="/images/NCrimeLeyend.png" class="imgLeyend" /></div>
+            <div class="leyendBox"><img src="/images/DCrimeLeyend.png" class="imgLeyend" /></div>
         </div>
         
     </form>
     <script>
         L.mapbox.accessToken = 'pk.eyJ1IjoibWliYWxsZSIsImEiOiJjaWowbzA5MzIwMDN2dWZtNTZmendnczB5In0.lS1yCvi3pTRFN6KPDvU31A';
-        var map = L.map('crimemap', 'mapbox.street').setView([51.5119112, -0.10000], 11);
+        var map = L.map('crimemap', 'mapbox.street').setView([51.534854431713, -0.17405042505482], 11);
         var layer = L.mapbox.tileLayer('mapbox.light').addTo(map);
         var boroughsLayer = L.mapbox.featureLayer('/data/LONBoroughs.geo.json').addTo(map);
-        var stationsLayer = L.mapbox.featureLayer('/data/Stations.geo.json').addTo(map);
 
         // Setup our svg layer that we can manipulate with d3
         var svg = d3.select(map.getPanes().markerPane)
@@ -63,17 +62,11 @@
             })
             .transition().duration(1000)
             .attr("r", function (d) {
-                fprop = Math.sqrt(Math.sqrt(d.usage));
-                if (fprop <= 30)
-                    return 5;
-                if (fprop >= 90)
-                    return 40;
-                else
-                    return Math.round((((fprop-30) / 60 ) * 35) + 5)
+                return 20;
             })
             .style({
                 fill: function (d) {
-                    sprop = Math.sqrt(d.Count.totals);
+                    sprop = Math.sqrt(d['Crime Density (Gaussian)'].totals);
                     if (sprop <= 10)
                         return "#00FF00";
                     if (sprop >= 160)

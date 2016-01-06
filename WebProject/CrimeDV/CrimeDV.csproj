@@ -81,9 +81,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\crimelogo.png" />
+    <Content Include="images\DCrimeLeyend.png" />
     <Content Include="images\fingerprint.png" />
     <Content Include="images\NCrimeLeyend.png" />
     <Content Include="default.aspx" />
+    <Content Include="mapc.aspx" />
     <Content Include="mapd.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
@@ -124,6 +126,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mapc.aspx.cs">
+      <DependentUpon>mapc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mapc.aspx.designer.cs">
+      <DependentUpon>mapc.aspx</DependentUpon>
     </Compile>
     <Compile Include="mapd.aspx.cs">
       <DependentUpon>mapd.aspx</DependentUpon>

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mapd.aspx.cs" Inherits="CrimeDV.mapd" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="mapc.aspx.cs" Inherits="CrimeDV.mapc" %>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -26,15 +26,16 @@
         </div>
         <div class="footer row">
             Site for Foundations of Data Science coursework. University of Southampton, 2016.
-            <div class="leyendBox"><img src="/images/DCrimeLeyend.png" class="imgLeyend" /></div>
+            <div class="leyendBox"><img src="/images/NCrimeLeyend.png" class="imgLeyend" /></div>
         </div>
         
     </form>
     <script>
         L.mapbox.accessToken = 'pk.eyJ1IjoibWliYWxsZSIsImEiOiJjaWowbzA5MzIwMDN2dWZtNTZmendnczB5In0.lS1yCvi3pTRFN6KPDvU31A';
-        var map = L.map('crimemap', 'mapbox.street').setView([51.516263444214, -0.2480978154307], 11);
+        var map = L.map('crimemap', 'mapbox.street').setView([51.5119112, -0.10000], 11);
         var layer = L.mapbox.tileLayer('mapbox.light').addTo(map);
         var boroughsLayer = L.mapbox.featureLayer('/data/LONBoroughs.geo.json').addTo(map);
+        var stationsLayer = L.mapbox.featureLayer('/data/Stations.geo.json').addTo(map);
 
         // Setup our svg layer that we can manipulate with d3
         var svg = d3.select(map.getPanes().markerPane)
@@ -62,11 +63,17 @@
             })
             .transition().duration(1000)
             .attr("r", function (d) {
-                return 20;
+                fprop = Math.sqrt(Math.sqrt(d.usage));
+                if (fprop <= 30)
+                    return 5;
+                if (fprop >= 90)
+                    return 40;
+                else
+                    return Math.round((((fprop-30) / 60 ) * 35) + 5)
             })
             .style({
                 fill: function (d) {
-                    sprop = Math.sqrt(d['Crime Density (Gaussian)'].totals);
+                    sprop = Math.sqrt(d.Count.totals);
                     if (sprop <= 10)
                         return "#00FF00";
                     if (sprop >= 160)
