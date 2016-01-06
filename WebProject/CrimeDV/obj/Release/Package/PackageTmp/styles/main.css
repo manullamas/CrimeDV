@@ -54,7 +54,7 @@ body {
     color: white;
     vertical-align: bottom;
     padding-left: 5px;
-    padding-top: 5px;
+    padding-top: 0px;
 }
 
 .body.row {
@@ -73,3 +73,48 @@ body {
     text-align: center;
     padding-top: 2px;
 }
+
+.imgLeyend {
+    width: 250px;
+    height: auto;
+}
+
+.leyendBox {
+    width: 250px;
+    height: auto;
+    position: fixed;
+    bottom: 18px;
+    right: 5px;
+    z-index: 10000;
+}
+
+.headerTable{
+    width: 100%;
+    border: 0;
+    padding: 0;
+    border-spacing: 0;
+}
+
+.headernav.row {
+    font-size:smaller;
+    text-align: right;
+}
+
+.headerNav a{
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.headerNav a:link{
+    color: white;
+}
+
+.headerNav a:hover{
+    color: #999999;
+}
+
+.headerNav a:visited{
+    color: white;
+    text-decoration: none;
+}
+

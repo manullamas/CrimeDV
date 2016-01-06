@@ -1,0 +1,16 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: ''
+  rev: ''
+  saveCenter: true
+attribution: ''
+center: 
+  - 4.9219
+  - -0.3516
+  - 1
+description: London Boroughs for crime analysis
+Layer: []
+maxzoom: 15
+minzoom: 0
+name: London Boroughs

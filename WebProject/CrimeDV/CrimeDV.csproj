@@ -82,16 +82,19 @@
   <ItemGroup>
     <Content Include="images\crimelogo.png" />
     <Content Include="images\fingerprint.png" />
-    <Content Include="mapm.aspx" />
-    <Content Include="mapT.aspx" />
+    <Content Include="images\NCrimeLeyend.png" />
+    <Content Include="default.aspx" />
+    <Content Include="mapd.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="data\LONStations.json" />
+    <None Include="data\LONBoroughs.geo.json" />
+    <Content Include="data\StationsCount.json" />
+    <Content Include="data\StationsAll.json" />
+    <Content Include="data\Stations.geo.json" />
     <None Include="Properties\PublishProfiles\CrimeDV - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\CrimeDV - Web Deploy.pubxml" />
-    <Content Include="data\dataStations.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -100,7 +103,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="default.aspx" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="scripts\d3.js" />
@@ -123,19 +125,12 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="mapm.aspx.cs">
-      <DependentUpon>mapm.aspx</DependentUpon>
+    <Compile Include="mapd.aspx.cs">
+      <DependentUpon>mapd.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="mapm.aspx.designer.cs">
-      <DependentUpon>mapm.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="mapT.aspx.cs">
-      <DependentUpon>mapT.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="mapT.aspx.designer.cs">
-      <DependentUpon>mapT.aspx</DependentUpon>
+    <Compile Include="mapd.aspx.designer.cs">
+      <DependentUpon>mapd.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

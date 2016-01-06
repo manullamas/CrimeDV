@@ -1,57 +1,32 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="CrimeDV._default" %>
-<!DOCTYPE html> 
-<html>
-<head>
-	<title>London crime data</title>
-    <link rel="stylesheet" type="text/css" href="/styles/main.css" /> 
-    <link rel="stylesheet" type="text/css" href="/styles/ol.css" /> 
-    <link rel="stylesheet" type="text/css" href="/styles/nv.d3.css" /> 
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="CrimeDV.defaultpage" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>London Crime Data Visualiser</title>
+
+    <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet' />
+    <link rel="stylesheet" type="text/css" href="/styles/main.css" />
     <script src="/scripts/d3.min.js" charset="utf-8"></script>
-    <script src="/scripts/ol.js"></script>
+    <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
     <meta name="description" content="London crime data visualiser. Includes points of interest and demographics." />
 </head>
-<body style="margin:0px 0px 0px 0px;font-family:Arial, Helvetica, sans-serif;">
-<table style="width:100%;border-width:0px 0px 0px 0px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
-	<tr style="background-color:black;margin:5px 5px 5px 5px;color:white;">
-		<td style="text-align:left">London Crime Data</td>
-		<td style="text-align:right">Intro | Crime Data | About this project</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-            <table style="width:100%;height:100%;border-width:0px 0px 0px 0px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;">
-                <tr>
-                    <td style="width:100%;height:100%"><div id="crimemap" class="map"></div></td>
-                </tr>
-            </table>
-		</td>
-	</tr>
-</table>
-
-<script>
-    var layers = [];
-
-    layers.push(new ol.layer.Tile({
-        visible: true,
-        preload: Infinity,
-        source: new ol.source.BingMaps({
-        key: 'Al2H4Jth3TkBcsuFvpl1FZmbBj4iTnd5P5BosDl6TzE87VmdXWnwDKEWJ-yEw2D8',
-        imagerySet: 'Road'
-        })
-    }));
-
-    var map = new ol.Map({
-    layers: layers,
-    // Improve user experience by loading tiles while dragging/zooming. Will make
-    // zooming choppy on mobile or slow devices.
-    loadTilesWhileInteracting: true,
-    target: 'crimemap',
-    view: new ol.View({
-        center: [-6655.5402445057125, 6709968.258934638],
-        zoom: 13
-    })
-    });
-
-</script>
-
+<body>
+    <form id="form1" runat="server">
+        <div class="header row">
+            <div class="headertitle">
+                <table class="headerTable"><tr><td class="headerText">London Crime Data Visualiser</td>
+                    <td class="headerNav">
+                        <a href="/" class="navText"> Dashboard </a> | <a href="/mapn.aspx" class="navText">By Number</a> | <a href="/mapd.aspx" class="navText">By Density</a> | <a href="/mapb.aspx" class="navText">By Borrough</a></td></tr></table>
+            </div>
+        </div>
+        <div class="body row" id="crimemap">
+            <iframe src="http://taoufikds.cloudapp.net:5000" style="width:100%;height:100%;" ></iframe>
+        </div>
+        <div class="footer row">
+            Site for Foundations of Data Science coursework. University of Southampton, 2016.
+        </div>
+    </form>
 </body>
 </html>
+
