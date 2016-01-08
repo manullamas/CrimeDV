@@ -1,0 +1,52 @@
+db.londonCrime5.find().count()
+db.londonCrime5.findOne()
+
+
+
+ - Count data that doesnt belong to London's boroughs
+db.londonCrime5.find(
+{
+	"LocalAuthority": 
+	{ 
+		"$nin": ["City of London", "Barking and Dagenham", "Barnet", "Bexley", "Brent", "Bromley", "Croydon", "Camden", "Ealing", "Enfield", "Greenwich", "Hackney", "Hammersmith and Fulham", "Haringey", "Harrow", "Havering", "Hillingdon", "Hounslow", "Islington", "Kensington and Chelsea", "Kingston upon Thames", "Lambeth", "Lewisham", "Merton", "Newham", "Redbridge", "Richmond upon Thames", "Southwark", "Sutton", "Tower Hamlets", "Waltham Forest", "Westminster", "Wandsworth"]
+	}
+}
+).count()
+>>>168715: some boroughs classified by numbers (not converted to character in R)
+
+
+
+ - Check which data is not in boroughs of London.
+db.londonCrime5.distinct( "LocalAuthority",
+{
+	"LocalAuthority": 
+	{ 
+		"$nin": ["City of London", "Barking and Dagenham", "Barnet", "Bexley", "Brent", "Bromley", "Croydon", "Camden", "Ealing", "Enfield", "Greenwich", "Hackney", "Hammersmith and Fulham", "Haringey", "Harrow", "Havering", "Hillingdon", "Hounslow", "Islington", "Kensington and Chelsea", "Kingston upon Thames", "Lambeth", "Lewisham", "Merton", "Newham", "Redbridge", "Richmond upon Thames", "Southwark", "Sutton", "Tower Hamlets", "Waltham Forest", "Westminster", "Wandsworth"]
+	}
+}
+)
+These data has indexes instead of boroughs name -> need to substitute it
+
+
+
+ - Backup copy
+db.londonCrime5.aggregate([{ $out: "londonCrime5Backup"}])
+ 
+
+
+- Checking both databases for consistency
+db.londonCrime3.find({"LocalAuthority": { $in: ["City of London"] } }).count()
+db.londonCrime5.find({"LocalAuthority": { $in: ["City of London"] } }).count()
+db.londonCrime1.find({"LocalAuthority": { $in: [1] } }).count()
+
+
+
+#### Had to upload data again due to dots in the names (illegal to query in mongodb if not nested documents): londonCrime6
+
+
+
+- Creation of indexes in relevant fields to perform faster queries (doesn't matter ascending or descending order)
+db.londonCrime6.createIndex({"LocalAthority": 1})
+db.londonCrime6.createIndex({"Crimetype": 1})
+db.londonCrime6.createIndex({"School": 1})
+db.londonCrime6.createIndex({"SchoolDistance": 1})

@@ -1,0 +1,64 @@
+
+
+###Split the parts of the process between everyone:
+Manu, Alun: Cleaning data
+Miguel, Taoufik: Visualization
+
+###Visualizations in slides: show the main ideas so we dont need to talk too much
+
+
+
+*-Section 1. Different ideas and decided idea
+·News idea
+·crime "predictor" -> problem with granularity, changed the target of this project
+
+
+*-Section 2. Context of the IDEA
+Story-telling of the decided project
+- First we wanted to make some kind of "predictor" of likelyhood to suffer a crime: why? --> 
+·Interesting to study crimes from different points of view, not only classic ones like in terms of population or borough... but distances from stations, schools etc. ·Comment the interest as it fulfills the entire pipeline of the data science process: retrieving data, cleaning it, merging different datasets and then analyzing them.
+·Need in the market: questions or concerns that bring this need.
+·Impact of the idea
+
+
+*Section 3. PRESENTATION of the app and DEMO from the perspective of the user -> Impact of the idea in user's terms. (-if I was someone living in London I will explore the boroughs to knwo more about crime in them so be careful with certains kind of crimes, moving to a new place, going through not-known areas.
+Examples: I want to go to a friend's house but I realize that in that borough there is a lot of rrobbery around the train station: decide to go by bicycle, or maybe there is not many crime around the station but there is a lot of bicycle thefts...
+Im going to move and want to know more about the area: safe area related to stations and schools (so safe transportation and schools for kids...)?
+## Fast demo: "this is how the app works..."
+## This app is more about exploratory analysis than heavy analysis.
+
+
+*Section 4. Technical implementation.
+Make enfasis in not obvious things: cleaning data in terms of getting many datasets to merge together to be able to analize (merging different datasets in order to be able to make different analysis: postcodes, boroughs, stations/schools to have coordinates to be able to calculate distances, or LA to filter crimes in London...; aggregating datasets with "crime" to calculate distances from stations/schools ex: "stations"+"crime" [using R writing our own code to fulfill this]; indexing fields after that in mongoDB to make queries faster...)
+
+
+Follow data science pipeline:
+· Retrieving data: data.gov.uk datasets of London crime, collected by ONS. Boroughs, LSOA, Postcodes, Stations, Schools ONS as well. Emphasize the number of datasets as well as the size of the "crime" dataset (5 years of records from btp, metropolitan and city of London police). So merging many datasets with a lot of entries, so working with "big data".
+· Cleaning: In order to add boroughs to "stations" dataset, postcode to "schools"... So then we can study the relation of crime with stations/schools/boroughs.
+· Modelling: densities and different analysis from the perspective of train stations and schools
+· Visualization: about the technical implementation of the app
+
+
+
+*Conclusion.
+·Impact of the idea
+·Furhter work to develop (or work with no time to do) like Analysis of the results: we saw that some Tube's lines seem to have same density of crime (maybe some "dangerous" lines...). Studying muggling in schools (MAYBE around private schools there is more of this type of crime as the students suffer it more, or around girls schools rhere is more sexual crimes, around academies there is low levels of crime due to the strict education...)
+
+
+
+
+
+
+
+
+
+
+analysis if crime in schools: like aluns dataset: stationsCrime3
+count, density by area, density by area and usage
+
+radium of circles: 0.3 km
+
+
+
+
+
